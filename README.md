@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anil1228-AAA
-- 👀 I’m interested in Web Development and Python.
-- 🌱 I’m currently learning Data Analytics and Python and DSA.
+- 👀 I’m interested in Data Analytics and Data Science.
+- 🌱 I’m currently practicing DSA and doing competitive programming.
 
 <!---
 Anil1228-AAA/Anil1228-AAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
